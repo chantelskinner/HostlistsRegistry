@@ -7,6 +7,7 @@
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
+||libertymutual.com^
 ||hotbraraja.cc^
 ||unactkiosk.com^
 ||pinco225.win^
